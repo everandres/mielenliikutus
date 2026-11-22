@@ -1,0 +1,12 @@
+{
+  "global_rate": 0.006332256408420984,
+  "axis_share": {
+    "hope_fortune": 0.47312552653748946,
+    "melancholy_solitude": 0.10020678563222793,
+    "fear_danger": 0.21701769165964616,
+    "love_tenderness": 0.056965612315233206,
+    "peace_quiet": 0.15268438385540323
+  },
+  "k_smooth": 50,
+  "min_n_dominant": 5
+}
